@@ -37,7 +37,7 @@ Link do Surge: https://ahead-edge.surge.sh/
     # 🕹POKEDEX 
 </h1>
 
-<img src='https://user-images.githubusercontent.com/102477125/191634408-733a14e6-6b67-4264-9f54-e07b108da2e8.png'/>
+<img src='https://user-images.githubusercontent.com/102477125/191634592-1d93d975-b65e-4fd3-bb81-d4da0a98f43e.png'/>
 
 ##  🕵Sobre
 
