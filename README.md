@@ -1,38 +1,3 @@
-
-
-## 💻 Projeto
-
- Desenvolver uma plataforma web para listagem e visualização de pokémons. Todos os dados sobre os pokémons como nome, número, tipo, imagem e entre outras coisas, foram possíveis com o uso da API Poke Api.
-
-Nome dos integrantes: 
-
-- Guilherme Azevedo Melim
-
-- Rhuan Victor Virtudes Lourenço
-
-- Roberta Vieira de Melo
-
-Link do Surge: https://ahead-edge.surge.sh/
-
-✅ O que funciona:
-- Na pagina 
-
-❌ O que não funciona: 
-- 
-- 
-
-## 🚀 Tecnologias
-
-- React JS
-- Styled-components
-- React Router Dom
-- 
-
-
-----------------------------------------------------------------------------------------------------------
-
-
-
 <h1 align="center">
     # 🕹POKEDEX 
 </h1>
@@ -41,16 +6,19 @@ Link do Surge: https://ahead-edge.surge.sh/
 
 ##  🕵Sobre
 
-Escrever de forma sucinta sobre o que é o seu projeto. Por exemplo, se você está fazendo uma Pokedéx pode escrever : Aplicação com intuito de criar uma pokedéx, site onde você pode ver os detalhes dos pokemóns e montar a sua equipe.
-
+- Bem vindos a Pokédex.
+- Esse projeto foi desenvolvido para o aperfeiçoamento de todo estudo  adquirido no processo de Full Stack.
+- Na plataforma web visualizamos os pokémons, neles contém dados como: nome, número, tipo, imagem e entre outras coisas. 
+- Todos os dados são retirados da API Poke.
 ---
 
 ##  👩🏾Quem Faz 
 
-- ~~COLOCAR O NOME DAS PESSOAS AUTORAS DO PROJETO~~
-- PESSOA 1
-- PESSOA 2
-- PESSOA 3
+- Guilherme Azevedo Melim
+
+- Rhuan Victor Virtudes Lourenço
+
+- Roberta Vieira de Melo
 
 ---
 ##  🔠Conteúdos
@@ -124,14 +92,11 @@ Para esse projeto são modelados três entidades : **Estudante (STUDENT), Profes
 
 ## 🔗Link para Acessar
 
-- **Link do Surge:** ~~COLOCAR AQUI O LINK DO SURGE~~
-
+- **Link do Surge:** https://ahead-edge.surge.sh/
 ---
 
 
 ## 🛰Rodando o Projeto
-
-~~EXPLICAR AQUI O PASSO A PASSO PARA CONSEGUIR RODAR E ACESSAR O PROJETO.~~
 
 Para Rodar o projeto, siga as seguintes etapas :
 
