@@ -37,9 +37,7 @@ Link do Surge: https://ahead-edge.surge.sh/
     # 🕹POKEDEX 
 </h1>
 
-<h4 align="left">
-    Slogan do Projeto. Fazer um texto curto sobre o que é o projeto.
-</h4>
+<img src=(https://user-images.githubusercontent.com/102477125/191634408-733a14e6-6b67-4264-9f54-e07b108da2e8.png)/>
 
 ---
 
