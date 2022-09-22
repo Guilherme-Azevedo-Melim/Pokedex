@@ -76,5 +76,5 @@
 Para Rodar o projeto, siga as seguintes etapas :
 
 - Faça o Git clone
-- No terminal de o comando 'npm i'
-- Por ultimo 
+- No terminal de o comando ' npm i '
+- Por ultimo de o comando ' npm start '
