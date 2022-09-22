@@ -58,10 +58,10 @@
 
 ## ☑️Requisitos de Funcionalidade
 
-- [ ] Funcionalidade 1: Botão de detalhes.
-- [ ] Funcionalidade 2: Botão de adicionar.
-- [ ] Funcionalidade 3: Botão de lista.
-- [ ] Funcionalidade 4: Botão de remover.
+- [x] Funcionalidade 1: Botão de detalhes.
+- [x] Funcionalidade 2: Botão de adicionar.
+- [x] Funcionalidade 3: Botão de lista.
+- [x] Funcionalidade 4: Botão de remover.
 
 ---
 
